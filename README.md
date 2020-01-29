@@ -6,7 +6,7 @@ Add space around latin and numbers in Chinese context.
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/@mosteast/cli_add_space_around_alphanumeric.svg)](https://npmjs.org/package/@mosteast/cli_add_space_around_alphanumeric)
 [![Downloads/week](https://img.shields.io/npm/dw/@mosteast/cli_add_space_around_alphanumeric.svg)](https://npmjs.org/package/@mosteast/cli_add_space_around_alphanumeric)
-[![License](https://img.shields.io/npm/l/@mosteast/cli_add_space_around_alphanumeric.svg)](https://github.com/@mosteast/cli_add_space_around_alphanumeric/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/@mosteast/cli_add_space_around_alphanumeric.svg)](https://github.com/mosteast/cli_add_space_around_alphanumeric/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
