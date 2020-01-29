@@ -19,7 +19,7 @@ $ npm install -g @mosteast/cli_add_space_around_alphanumeric
 $ cli_add_space_around_alphanumeric COMMAND
 running command...
 $ cli_add_space_around_alphanumeric (-v|--version|version)
-@mosteast/cli_add_space_around_alphanumeric/0.0.0 darwin-x64 node-v12.14.0
+@mosteast/cli_add_space_around_alphanumeric/1.0.0 darwin-x64 node-v12.14.0
 $ cli_add_space_around_alphanumeric --help [COMMAND]
 USAGE
   $ cli_add_space_around_alphanumeric COMMAND

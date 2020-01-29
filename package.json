@@ -1,7 +1,7 @@
 {
   "name": "@mosteast/cli_add_space_around_alphanumeric",
   "description": "Add space around latin and numbers in Chinese context.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "kev",
   "bin": {
     "cli_add_space_around_alphanumeric": "./bin/run"
